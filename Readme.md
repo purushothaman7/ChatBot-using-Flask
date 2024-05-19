@@ -1,4 +1,4 @@
-# Gemini AI Chatbot
+# Flask Chatbot
 
 ## Overview
 The web app is built using the Flask framework in Python. The Gemini AI chatbot is powered by the Gemini Pro API, allowing users to interact with a chatbot trained on a massive dataset of 1.5 Trillion tokens.
