@@ -29,7 +29,7 @@ def index():
             else:
                 return "Sorry, but I think Healthbot didn't want to answer that!"
         except Exception as e:
-            return "Sorry, but Healthhbot didn't want to answer that!"
+            return "Sorry,but Healthhbot didn't want to answer that!"
 
     return render_template('index.html', **locals())
 
